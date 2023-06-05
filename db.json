@@ -1,0 +1,19 @@
+{
+  "course": [
+    {
+      "id": 1,
+      "name": "Javascript",
+      "description": "Khoa hoc lap trinh co ban"
+    },
+    {
+      "name": "NodeJs",
+      "description": "Khoa hoc lap trinh moi",
+      "id": 2
+    },
+    {
+      "name": "PHP",
+      "description": "PHP la mot khoa hoc moi duoc them vao",
+      "id": 4
+    }
+  ]
+}
